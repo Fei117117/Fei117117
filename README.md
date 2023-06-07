@@ -1,16 +1,13 @@
-### Hi there 👋
+# 👋 Hey,
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="100" height="100">
+</div>
 
-<!--
-**Fei117117/Fei117117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I am Fei Gao
+## I am a programmer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<span>  </span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=Fei117117" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fei117117&layout=compact&langs_count=8" />
+<span>  </span>
