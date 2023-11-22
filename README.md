@@ -1,4 +1,4 @@
-# 👋 Hey,
+# 👋 Hey
 <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="150" height="150">
