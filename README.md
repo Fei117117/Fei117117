@@ -45,6 +45,7 @@ I'm a full-stack developer with a passion for building scalable web applications
 <span>  </span>
 
 ## Connect with Me
+
 <p align="center">
   <a href="Your LinkedIn URL">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
@@ -56,5 +57,4 @@ I'm a full-stack developer with a passion for building scalable web applications
     <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-0A0A0A?style=flat-square" />
   </a>
 </p>
-
 Thanks for visiting my profile! Keep coding and stay awesome!
