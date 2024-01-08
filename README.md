@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Fei
 <div align="center">
 	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="50" height="50">
+	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="70" height="70">
 </div>
 
 ## About Me
