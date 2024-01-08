@@ -44,7 +44,7 @@ I'm a full-stack developer with a passion for building scalable web applications
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Fei117117" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fei117117&layout=compact&langs_count=8" />
 <span>  </span>
 
-## Connect with Me
+<h2>Connect with Me</h2>
 
 <div align="center">
   <a href="Your LinkedIn URL">
