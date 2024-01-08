@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Fei Gao! Welcome to My GitHub!
+# 👋 Hey, Welcome to My GitHub!
 <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="150" height="150">
@@ -29,10 +29,13 @@ I'm a full-stack developer with a passion for building scalable web applications
 
 ## Projects
 
-#### NYSeeNow
+### NYSeeNow
 - **Description**: NYSeeNow is an innovative web and mobile application designed to transform the tourist experience in Manhattan, New York. Leveraging machine learning algorithms and diverse data sources, including taxi and subway data, weather conditions, and more, the app provides accurate, real-time busyness predictions for the city's attractions. Developed using a combination of Java Spring Boot, Flask, PostgreSQL, and React.js, the project emphasizes a user-centric design for optimized travel planning and congestion management.
 - **Technologies Used**: Java Spring Boot, PostgreSQL, React.js, Flask, Docker, Nginx
-- **GitHub repo URL**: Frontend: https://github.com/Fei117117/NYSeeNow, Backend: https://github.com/Fei117117/NYSeeNow-backend, Micro-service: https://github.com/Fei117117/NYSeeNow-ML
+- **GitHub repo URL**:
+  Frontend: https://github.com/Fei117117/NYSeeNow
+  Backend: https://github.com/Fei117117/NYSeeNow-backend
+  Micro-service: https://github.com/Fei117117/NYSeeNow-ML
 
 
 ## Statistics and Contributions
@@ -46,7 +49,7 @@ I'm a full-stack developer with a passion for building scalable web applications
   <a href="Your LinkedIn URL">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:fei.gao1515@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="Your Portfolio URL">
