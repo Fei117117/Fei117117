@@ -30,13 +30,17 @@ I'm a full-stack developer with a passion for building scalable web applications
 ## Projects
 
 ### NYSeeNow
-- **Description**: NYSeeNow is an innovative web and mobile application designed to transform the tourist experience in Manhattan, New York. Leveraging machine learning algorithms and diverse data sources, including taxi and subway data, weather conditions, and more, the app provides accurate, real-time busyness predictions for the city's attractions. Developed using a combination of Java Spring Boot, Flask, PostgreSQL, and React.js, the project emphasizes a user-centric design for optimized travel planning and congestion management.
+- **Description**: NYSeeNow is an innovative web and mobile application designed to transform the tourist experience in Manhattan, New York. Leveraging machine learning algorithms and diverse data sources, including taxi and subway data, weather conditions, and more, the app provides accurate, real-time busyness predictions for the city's attractions.
 - **Technologies Used**: Java Spring Boot, PostgreSQL, React.js, Flask, Docker, Nginx
 - **GitHub repo URL**:
-  Frontend: https://github.com/Fei117117/NYSeeNow
-  Backend: https://github.com/Fei117117/NYSeeNow-backend
-  Micro-service: https://github.com/Fei117117/NYSeeNow-ML
+  - Frontend: https://github.com/Fei117117/NYSeeNow
+  - Backend: https://github.com/Fei117117/NYSeeNow-backend
+  - Micro-service: https://github.com/Fei117117/NYSeeNow-ML
 
+### RideMate
+- **Description**: RideMate is a web application designed to enhance the experience of using Dublin Bikes. It provides real-time and predictive information on bike availability and weather conditions, helping users make informed decisions for their bike rentals.
+- **Technologies Used**: HTML, CSS, JavaScript, Python, Flask, MySQL
+- **GitHub repo URL**: https://github.com/Fei117117/RideMate
 
 ## Statistics and Contributions
 <div align="center">
