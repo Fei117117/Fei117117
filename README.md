@@ -8,7 +8,7 @@
 I'm a full-stack developer with a passion for building scalable web applications.
 
 ## Skills and Technologies
-<p>
+<p align="center">
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -45,7 +45,7 @@ I'm a full-stack developer with a passion for building scalable web applications
 <span>  </span>
 
 ## Connect with Me
-<p align="left">
+<p **align="center">
   <a href="Your LinkedIn URL">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
