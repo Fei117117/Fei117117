@@ -45,7 +45,7 @@ I'm a full-stack developer with a passion for building scalable web applications
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fei117117&layout=compact&langs_count=8" />
 <span>  </span>
-</div>div>
+</div>
 
 ## Connect with Me
 <p align="center">
@@ -59,4 +59,4 @@ I'm a full-stack developer with a passion for building scalable web applications
     <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-0A0A0A?style=flat-square" />
   </a>
 </p>
-Thanks for visiting my profile! Keep coding and stay awesome!
+<p align="center"> Thanks for visiting my profile! Keep coding and stay awesome! </p>
