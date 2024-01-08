@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Fei
-<div **align="center">
+<div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="150" height="150">
 </div>
@@ -8,7 +8,7 @@
 I'm a full-stack developer with a passion for building scalable web applications.
 
 ## Skills and Technologies
-<p **align="center">
+<p align="center">
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -39,13 +39,13 @@ I'm a full-stack developer with a passion for building scalable web applications
 
 
 ## Statistics and Contributions
-<div **align="center">
+<div align="center">
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Fei117117" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fei117117&layout=compact&langs_count=8" />
 <span>  </span>
 
 ## Connect with Me
-<p **align="center">
+<p align="center">
   <a href="Your LinkedIn URL">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
