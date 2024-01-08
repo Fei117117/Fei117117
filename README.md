@@ -43,9 +43,10 @@ I'm a full-stack developer with a passion for building scalable web applications
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Fei117117" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fei117117&layout=compact&langs_count=8" />
 <span>  </span>
+<div/>
 
 ## Connect with Me
-<div align="center">
+<p align="center">
   <a href="Your LinkedIn URL">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
@@ -55,6 +56,5 @@ I'm a full-stack developer with a passion for building scalable web applications
   <a href="Your Portfolio URL">
     <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-0A0A0A?style=flat-square" />
   </a>
-</div>
-
-## Thanks for visiting my profile! Keep coding and stay awesome!
+</p>
+Thanks for visiting my profile! Keep coding and stay awesome!
