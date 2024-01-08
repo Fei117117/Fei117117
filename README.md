@@ -1,13 +1,21 @@
-# 👋 Hey, I'm Fei
+<div align="center">
+  <h1>👋 Hey, I'm Fei</h1>
+</div>
+
 <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="150" height="150">
 </div>
 
-## About Me
+<div align="center">
+  <h2>About Me</h2>
+</div>
 I'm a full-stack developer with a passion for building scalable web applications.
 
-## Skills and Technologies
+<div align="center">
+  <h2>Skills and Technologies</h2>
+</div>
+
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
@@ -27,7 +35,9 @@ I'm a full-stack developer with a passion for building scalable web applications
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </p>
 
-## Projects
+<div align="center">
+  <h2>Projects</h2>
+</div>
 
 ### NYSeeNow
 - **Description**: NYSeeNow is an innovative web and mobile application designed to transform the tourist experience in Manhattan, New York. Leveraging machine learning algorithms and diverse data sources, including taxi and subway data, weather conditions, and more, the app provides accurate, real-time busyness predictions for the city's attractions. Developed using a combination of Java Spring Boot, Flask, PostgreSQL, and React.js, the project emphasizes a user-centric design for optimized travel planning and congestion management.
@@ -38,13 +48,19 @@ I'm a full-stack developer with a passion for building scalable web applications
   Micro-service: https://github.com/Fei117117/NYSeeNow-ML
 
 
-## Statistics and Contributions
+<div align="center">
+  <h2>Statistics and Contributions</h2>
+</div>
+
 <div align="center">
 <span>  </span>
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Fei117117" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fei117117&layout=compact&langs_count=8" />
 <span>  </span>
 
-## Connect with Me
+<div align="center">
+  <h2>Connect with Me</h2>
+</div>
+
 <p **align="center">
   <a href="Your LinkedIn URL">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
