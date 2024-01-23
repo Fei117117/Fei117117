@@ -60,8 +60,8 @@ I'm a full-stack developer with a passion for building scalable web applications
   <a href="mailto:fei.gao1515@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="Your Portfolio URL">
-    <img alt="Portfolio" src="[https://img.shields.io/badge/-Portfolio-0A0A0A?style=flat-square](https://fei117117.github.io/Personal-Website/)" />
+  <a href="https://fei117117.github.io/Personal-Website/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-0A0A0A?style=flat-square" />
   </a>
 </p>
 <p align="center"> Thanks for visiting my profile! Keep coding and stay awesome! </p>
