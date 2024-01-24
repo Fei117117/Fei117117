@@ -61,7 +61,8 @@ I'm a full-stack developer with a passion for building scalable web applications
     <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://fei117117.github.io/Personal-Website/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-0A0A0A?style=flat-square" />
-  </a>
+    <img alt="Personal Website" src="https://img.shields.io/badge/-Personal%20Website-0A0A0A?style=flat-square" />
+</a>
+
 </p>
 <p align="center"> Thanks for visiting my profile! Keep coding and stay awesome! </p>
