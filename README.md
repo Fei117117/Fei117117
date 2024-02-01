@@ -43,6 +43,12 @@ I'm a full-stack developer with a passion for building scalable web applications
 - **Technologies Used**: HTML, CSS, JavaScript, Python, Flask, MySQL
 - **GitHub repo URL**: https://github.com/Fei117117/RideMate
 
+### Personal Website
+- **Description**: This site is built with Next.js, styled with Tailwind CSS, and contains a home page, a showcase of my work, a blog, and a contact page.
+- **Technologies Used**: Next.js, Tailwind CSS, TypeScript
+- **GitHub repo URL**: https://github.com/Fei117117/Personal-Website
+- **Live Site**: The live website is available at https://fei117117.github.io/Personal-Website/.
+
 ## Statistics and Contributions
 <div align="center">
 <span>  </span>
@@ -54,7 +60,7 @@ I'm a full-stack developer with a passion for building scalable web applications
 
 ## Connect with Me
 <p align="center">
-  <a href="Your LinkedIn URL">
+  <a href="www.linkedin.com/in/fei-gao-869335120">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:fei.gao1515@gmail.com">
