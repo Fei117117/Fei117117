@@ -60,7 +60,7 @@ I'm a full-stack developer with a passion for building scalable web applications
 
 ## Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/fei-gao-869335120">
+  <a href="https://www.linkedin.com/in/fei-gao-869335120/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:fei.gao1515@gmail.com">
